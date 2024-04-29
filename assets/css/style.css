@@ -63,24 +63,33 @@ nav ul li a:hover {
     align-items: center;
 }
 
+.home-content {
+    min-height:100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .home-content h1 {
     margin-bottom: 3rem;
     font-size: 3rem;
     color: blue;
 }
 
-.home-content button {
+.home-content > a {
+    text-decoration: none;
     background-color: blue;
     color: white;
     font-size: 1.4rem;;
     padding: 1rem 4rem;
+    margin-top: 2rem;
     border-radius: 2rem;
     cursor: pointer;
-    margin-top: 2rem;
     transition: all 0.4s ease-in;
 }
 
-.home-content button:hover {
+.home-content a:hover {
     background-color: blue;
     opacity: 0.6;
 }
