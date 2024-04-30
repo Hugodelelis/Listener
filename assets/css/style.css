@@ -257,7 +257,7 @@ nav ul li a:hover {
         max-width: 2rem;
     }.mobile-menu-icon button {
         padding: 0.5rem 1rem;
-        background-color: var(--var-blue-color);
+        background-color: var(--var-white-color);
         cursor: pointer;
         margin: 2rem;
         display: block;
