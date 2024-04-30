@@ -194,7 +194,7 @@ nav ul li a:hover {
     padding: 0rem 1rem;
     background-color: var(--var-blue-color);
     border: 0.1rem solid var(--var-black-color);
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 .input > button:hover {
@@ -259,6 +259,7 @@ nav ul li a:hover {
         justify-content: space-around;
         align-items: center;
         background-color: var(--var-white-color);
+        z-index: 1;
     }.mobile-menu-icon img {
         max-width: 2rem;
     }.mobile-menu-icon button {
@@ -274,6 +275,7 @@ nav ul li a:hover {
         background-color: white;
         position: fixed;
         min-width: 100%;
+        z-index: 1;
     }.mobile-menu ul {
         list-style: none;
         display: flex;
