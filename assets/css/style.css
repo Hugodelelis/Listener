@@ -81,6 +81,7 @@ nav ul li a:hover {
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
+    margin: 2rem;
 }
 
 .home-content h1 {
@@ -123,6 +124,10 @@ nav ul li a:hover {
 .home-content p {
     font-size: 1.8rem;
     text-align: left;
+}
+
+.home-img {
+    margin: 2rem;
 }
 
 .home-img img {
