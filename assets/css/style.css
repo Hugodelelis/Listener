@@ -124,7 +124,7 @@ nav ul li a:hover {
 .home-content p {
     font-size: 1.8rem;
     text-align: left;
-    margin: 2rem;
+    margin: 2rem 2rem 2rem 0;
 }
 
 .home-img {
@@ -136,7 +136,7 @@ nav ul li a:hover {
 }
 
 #list {
-    background-color: var(--var-black-color);
+    background-color: rgb(39, 38, 38);
     color: var(--var-white-color);
     min-height: 100vh;
     max-width: 100%;
@@ -216,10 +216,11 @@ nav ul li a:hover {
 
 .add-input ul .delete {
     padding: 1rem 2rem;
-    background-color: red;
-    border: 0.1rem solid black;
+    background-color: rgb(235, 78, 78);
+    border: 0.1rem solid var(--var-black-color);
     border-radius: 2rem;
     cursor: pointer;
+    font-weight: bold;
     margin-left: 2rem;
 }
 
