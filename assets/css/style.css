@@ -231,9 +231,13 @@ nav ul li a:hover {
         grid-template-columns: repeat(1, 1fr);
         gap: 4rem;
     } .home-content {
-        margin-top: 3rem;
+        margin-top: 3rem;;
+    } .home-content p {
+        text-align: center;
     } .home-img {
         margin-bottom: 2rem;
+    } .list-template {
+        margin-top: 0;
     }
 
     .menu-spacing {
