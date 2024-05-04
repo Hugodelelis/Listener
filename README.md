@@ -1,5 +1,5 @@
 # About:
-<br>Listener is a website for to-do lists with options such as adding and deleting tasks.
+<br>Listing is a website for to-do lists with options such as adding and deleting tasks.
 
 ![image](https://github.com/Hugodelelis/Listing/assets/138935214/8fcdf72a-8890-417a-8c3d-77e7256a5a94)
 
