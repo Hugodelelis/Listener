@@ -85,7 +85,6 @@ nav ul li a:hover {
 }
 
 .home-content h1 {
-    margin-bottom: 3rem;
     font-size: 3rem;
     color: var(--var-blue-color);
 }
@@ -239,8 +238,6 @@ nav ul li a:hover {
         gap: 4rem;
     } .home-content {
         margin-top: 3rem;;
-    } .home-content h1 {
-        margin-bottom: 1rem;
     } .home-content p {
         text-align: center;
     } .home-img {
